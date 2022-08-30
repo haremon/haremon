@@ -1,14 +1,15 @@
 ### Hi there 👋
-
+* A 4th year Computer Science student<br/>
+* 🌱I’m currently learning Flutter, Data structures and Algorithms<br/>
+* Reach me at: pisces.shiv@gmail.com
 <!--
 **haremon/haremon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-* A 4th year Computer Science student
+
 - 🔭 I’m currently working on ...
-🌱I’m currently learning Flutter, Data structures and Algorithms
-* Reach me at: pisces.shiv@gmail.com
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
